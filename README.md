@@ -38,9 +38,9 @@ Enter commands (M for move, L for turn left, R for turn right): MMRMLM
 
 # Review the Results:
 
->> The program will display the final position of the rover.
+The program will display the final position of the rover.
 
->> A status report will indicate whether obstacles were detected during the navigation.
+A status report will indicate whether obstacles were detected during the navigation.
 
 
 Final Position: (1, 3, N)
