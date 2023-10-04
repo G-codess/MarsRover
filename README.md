@@ -14,13 +14,13 @@ Status Reporting: Get a final position report and a status report indicating whe
 
 # Follow the On-Screen Instructions:
 
->> Enter the grid size (xmax ymax).
+Enter the grid size (xmax ymax).
 
->> Enter the number and positions of obstacles.
+Enter the number and positions of obstacles.
 
->> Enter the starting coordinates and direction of the rover.
+Enter the starting coordinates and direction of the rover.
 
->> Enter the movement commands (M for move, L for turn left, R for turn right).
+Enter the movement commands (M for move, L for turn left, R for turn right).
 
 For Example :
 
